@@ -83,8 +83,8 @@
     ]
   },
   "env": {
-    "ROS_DISTRO": "humble",
-    "RMW_IMPLEMENTATION": "rmw_fastrtps_cpp",
+    "ROS_DISTRO": "lyrical",
+    "RMW_IMPLEMENTATION": "rmw_zenoh_cpp",
     "GZ_VERSION": "harmonic"
   }
 }
